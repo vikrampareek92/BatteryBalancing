@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479654780 source:c:\users\vikram\desktop\gram power\assignment\codes\battery balancing 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
